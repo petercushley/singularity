@@ -1,4 +1,6 @@
 # singularity
+## Link To Repo
+[https://github.com/petercushley/singularity](https://github.com/petercushley/singularity)
 ## To Run
 To run you will need [processing](https://processing.org). This code has been tested on Linux. There are likely to be problems if you run this on a mac (this is an issue with processing itself).
 ## How to Play
